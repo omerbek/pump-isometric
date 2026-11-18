@@ -9,3 +9,10 @@ Bir pompa gövdesinin izometrik blok taslağında parçaları ayır.
 ## İlham kaynağı
 
 Bu bağımsız sahne sentetik su istasyonu örnekleri kullanır. [Kaynak proje](https://github.com/ahujasid/mcp-for-blender).
+
+## Sahne ayarları
+
+- Patlatılmış görünüş mesafesi
+- Eğim derinliği
+
+Sekiz saniyelik zaman çizelgesinden bir kare seçip **PNG indir** ile 720 × 405 piksel dışa aktarabilirsin.
